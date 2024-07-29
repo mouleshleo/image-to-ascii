@@ -1,1 +1,1 @@
-# image-to-ascii
+# image-to-asciiimage to ascii using c
